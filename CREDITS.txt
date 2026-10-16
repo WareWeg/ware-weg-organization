@@ -1,0 +1,115 @@
+Placeholder photography
+=======================
+
+Every photograph here is CC0 / Public Domain Mark, sourced via the
+Openverse API — no attribution required, commercial use fine. Where no
+public-domain photograph matched a slot, the file is a generated gradient
+instead; those are marked below and carry no rights at all.
+
+Either way these are placeholders: replace them with your own photography
+before launch. Provenance for each file follows.
+
+hero.jpg
+  Fish Lake sunrise, Steens Mountain
+  CC0 1.0
+  https://www.rawpixel.com/image/6073315/fish-lake-sunrise-steens-mountain-oregon
+
+region-east.jpg
+  A panoramic view of a lush green valley surrounded by rolling hills and distant mountains under a partly cloudy sky.
+  CC0 1.0
+  https://wordpress.org/photos/photo/31263ad87f/
+
+region-west.jpg
+  Artistic sand dunes desert United
+  CC0 1.0
+  https://www.rawpixel.com/image/3295157/free-photo-image-texture-earth-dirt
+
+region-asia.jpg
+  Picturesque landscape terrace farms mountain
+  CC0 1.0
+  https://www.rawpixel.com/image/3300225/free-photo-image-nature-aerial-view-agriculutre
+
+prog-wells.jpg
+  Free manual green water pump
+  CC0 1.0
+  https://www.rawpixel.com/image/5914267/image-public-domain-green-retro
+
+prog-sanitation.jpg
+  Brick wall
+  CC0 1.0
+  https://www.rawpixel.com/image/5908816/brick-wall-free-public-domain-cc0-photo
+
+prog-hygiene.jpg
+  Free dripping water faucet image
+  CC0 1.0
+  https://www.rawpixel.com/image/5908125/image-background-public-domain-water
+
+prog-rain.jpg
+  Water tank close up
+  CC0 1.0
+  https://www.rawpixel.com/image/6041715/photo-image-public-domain-sky-water
+
+prog-catchment.jpg
+  Forest stream
+  CC0 1.0
+  https://wordpress.org/photos/photo/7846245b86/
+
+home-story.jpg
+  Greyscale photo rain drops
+  CC0 1.0
+  https://www.rawpixel.com/image/3283403/free-photo-image-rain-black-and-white-bokeh
+
+story-1.jpg
+  Close-up cracks dry dirt
+  CC0 1.0
+  https://www.rawpixel.com/image/3286803/free-photo-image-pattern-abstract-desert
+
+story-2.jpg
+  Snow covers mountainscape misty morning
+  CC0 1.0
+  https://www.rawpixel.com/image/3291505/free-photo-image-abies-cc0-countryside
+
+story-3.jpg
+  Free green landscape image
+  CC0 1.0
+  https://www.rawpixel.com/image/5912189/image-public-domain-green-palm-trees
+
+story-4.jpg
+  Watering can garden
+  CC0 1.0
+  https://www.rawpixel.com/image/6016191/photo-image-public-domain-plastic-water
+
+story-5.jpg
+  Glass of Water
+  CC0 1.0
+  https://www.rawpixel.com/image/8812231/glass-water
+
+story-6.jpg
+  Free person making handmade pottery
+  CC0 1.0
+  https://www.rawpixel.com/image/5925216/photo-image-public-domain-art-free
+
+story-full.jpg
+  Free corn field image
+  CC0 1.0
+  https://www.rawpixel.com/image/5924715/photo-image-public-domain-plant-nature
+
+donate-bg.jpg
+  Water ripple
+  CC0 1.0
+  https://www.rawpixel.com/image/5917626/water-ripple-free-public-domain-cc0-photo
+
+about-hero.jpg
+  clear surface Avalanche Lake mountain
+  CC0 1.0
+  https://www.rawpixel.com/image/3292599/free-photo-image-abies-animal-bird
+
+volunteer-hero.jpg
+  Free waterfall green forest photo
+  CC0 1.0
+  https://www.rawpixel.com/image/5901909/photo-image-public-domain-tree-green
+
+cta-water.jpg
+  Free water drops image
+  CC0 1.0
+  https://www.rawpixel.com/image/5914569/free-water-drops-image-public-domain-cc0-photo
